@@ -1,6 +1,6 @@
 # Voidrice local bin only
 
-The purpose of this repository is to provide `.local/bin` scripts from voidrice.
+The purpose of this repository is to provide `.local/bin` scripts from [voidrice](https://github.com/LukeSmithxyz/voidrice).
 
 # How does it work ?
 
