@@ -9,6 +9,7 @@ Basically im just using [git-filter-repo](https://github.com/newren/git-filter-r
 ```sh
 git checkout master
 git pull
+git branch filtered-branch
 git filter-repo --subdirectory-filter .local/bin --refs filtered-branch --force
 git checkout local-bin-only
 git merge filtered-branch
